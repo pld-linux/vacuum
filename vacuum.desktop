@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vacuum Magic
+Comment=Fast paced original action game
+Comment[pl]=Oryginalna gra akcji z szybkim tempem
+Icon=vacuum
+Exec=vacuum
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+# vi: encoding=utf-8
