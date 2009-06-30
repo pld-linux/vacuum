@@ -28,7 +28,7 @@ or against each other.
 
 %description -l pl.UTF-8
 Vacuum Magic jest grą akcji, którą cechuje szybkie tempo. Gracz
-używa swojej magi w celu zbierania pożywienia i obrony przed
+używa swojej magii w celu zbierania pożywienia i obrony przed
 potworami. Pożywienie oraz niektóre potwory mogą być użyte jako
 pociski przeciwko innym potworom.
 
