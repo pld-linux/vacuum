@@ -1,12 +1,12 @@
 Summary:	Fast paced original action game
 Summary(pl.UTF-8):	Oryginalna gra akcji z szybkim tempem
 Name:		vacuum
-Version:	0.12
-Release:	1
+Version:	0.13
+Release:	0.1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://dl.sourceforge.net/vacuum/%{name}-%{version}.tar.gz
-# Source0-md5:	f94eccf4ed6972396951038078c1b17a
+# Source0-md5:	7e9c4b96cdaff2030a1c3a7f78626d74
 Source1:	%{name}.desktop
 URL:		http://apocalypse.rulez.org/vacuum/
 BuildRequires:	autoconf
